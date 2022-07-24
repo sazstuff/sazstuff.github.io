@@ -49,7 +49,7 @@ fontsDir = "fonts/" # without a leading forward slash
 fallBackOgImage = "images/thumbnail.png"
 
 # Logo image
-logo = "logos/logo.png"
+logo = "logos/saz-stuff-logo_wordmark-white.png"
 
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
@@ -84,7 +84,7 @@ enforceLightMode = false
 # enforceDarkMode = false
 
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
-# footerLogo = "icons/copy.svg"
+footerLogo = "icons/saz-stuff-icon_square-dark_72dpi.png"
 
 # Customize Sidebar Disclaimer Text
 # sidebardisclaimer = true
@@ -125,8 +125,8 @@ languageMenuName = "🌐"
 
 # website author
 [author]
-name = "Saz"
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+name = "Dave Sazama"
+photo = "icons/saz-stuff-icon_square-dark_72dpi.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
