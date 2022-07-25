@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sazstuff.com/pt/categories/</loc>
+    <loc>https://sazstuff.github.io/pt/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/categories/"
+                href="https://sazstuff.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/categories/"
+                href="https://sazstuff.github.io/pt/categories/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/pt/</loc>
+    <loc>https://sazstuff.github.io/pt/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/"
+                href="https://sazstuff.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/"
+                href="https://sazstuff.github.io/pt/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/pt/tags/css/</loc>
+    <loc>https://sazstuff.github.io/pt/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/tags/destacado/</loc>
+    <loc>https://sazstuff.github.io/pt/tags/destacado/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/post/markdown-syntax/</loc>
+    <loc>https://sazstuff.github.io/pt/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/series/guia-de-temas/</loc>
+    <loc>https://sazstuff.github.io/pt/series/guia-de-temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/tags/html/</loc>
+    <loc>https://sazstuff.github.io/pt/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/tags/markdown/</loc>
+    <loc>https://sazstuff.github.io/pt/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/post/</loc>
+    <loc>https://sazstuff.github.io/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/post/"
+                href="https://sazstuff.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/post/"
+                href="https://sazstuff.github.io/pt/post/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/pt/series/</loc>
+    <loc>https://sazstuff.github.io/pt/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/series/"
+                href="https://sazstuff.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/series/"
+                href="https://sazstuff.github.io/pt/series/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/pt/categories/sintaxe/</loc>
+    <loc>https://sazstuff.github.io/pt/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/tags/</loc>
+    <loc>https://sazstuff.github.io/pt/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/tags/"
+                href="https://sazstuff.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/tags/"
+                href="https://sazstuff.github.io/pt/tags/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/pt/tags/temas/</loc>
+    <loc>https://sazstuff.github.io/pt/tags/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/categories/temas/</loc>
+    <loc>https://sazstuff.github.io/pt/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/pt/about/</loc>
+    <loc>https://sazstuff.github.io/pt/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/about/"
+                href="https://sazstuff.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/about/"
+                href="https://sazstuff.github.io/pt/about/"
                 />
   </url>
 </urlset>

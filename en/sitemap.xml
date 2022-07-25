@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sazstuff.com/archives/</loc>
+    <loc>https://sazstuff.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sazstuff.com/about/</loc>
+    <loc>https://sazstuff.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/about/"
+                href="https://sazstuff.github.io/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/about/"
+                href="https://sazstuff.github.io/about/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/</loc>
+    <loc>https://sazstuff.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/"
+                href="https://sazstuff.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/"
+                href="https://sazstuff.github.io/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/categories/</loc>
+    <loc>https://sazstuff.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/categories/"
+                href="https://sazstuff.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/categories/"
+                href="https://sazstuff.github.io/categories/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/tags/index/</loc>
+    <loc>https://sazstuff.github.io/tags/index/</loc>
   </url><url>
-    <loc>https://sazstuff.com/post/</loc>
+    <loc>https://sazstuff.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/post/"
+                href="https://sazstuff.github.io/pt/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/post/"
+                href="https://sazstuff.github.io/post/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/search/</loc>
+    <loc>https://sazstuff.github.io/search/</loc>
   </url><url>
-    <loc>https://sazstuff.com/series/</loc>
+    <loc>https://sazstuff.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/series/"
+                href="https://sazstuff.github.io/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/series/"
+                href="https://sazstuff.github.io/series/"
                 />
   </url><url>
-    <loc>https://sazstuff.com/tags/</loc>
+    <loc>https://sazstuff.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://sazstuff.com/pt/tags/"
+                href="https://sazstuff.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sazstuff.com/tags/"
+                href="https://sazstuff.github.io/tags/"
                 />
   </url>
 </urlset>
