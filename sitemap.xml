@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://sazstuff.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://sazstuff.github.io/pt/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sazstuff.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sazstuff.com/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sazstuff.com/</loc>
+  </url><url>
+    <loc>https://sazstuff.com/categories/</loc>
+  </url><url>
+    <loc>https://sazstuff.com/tags/index/</loc>
+  </url><url>
+    <loc>https://sazstuff.com/post/</loc>
+  </url><url>
+    <loc>https://sazstuff.com/search/</loc>
+  </url><url>
+    <loc>https://sazstuff.com/series/</loc>
+  </url><url>
+    <loc>https://sazstuff.com/tags/</loc>
+  </url>
+</urlset>
